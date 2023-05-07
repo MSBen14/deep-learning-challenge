@@ -22,7 +22,7 @@ What variable(s) should be removed from the input data because they are neither 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 - The neural network model includes 27 neurons, 2 hidden layers, and 3 activation functions (relu, tanh, sigmoid). To achieve a good balance between model complexity and performance.
-![Screenshot](nn_model.png)
+![Screenshot](/deep-learning-challenge/nn_model.png)
 
 Were you able to achieve the target model’s performance?
 
