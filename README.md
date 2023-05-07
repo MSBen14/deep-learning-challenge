@@ -27,7 +27,15 @@ How many neurons, layers, and activation functions did you select for your neura
 
 
 ![nn_model](Deep Learning Challenge/nn_model.png)
-<br>
+
+
+
+
+
+
+
+
+
 Were you able to achieve the target model’s performance?
 
 - Yes, the highest model performance I achieved is Accuracy: 72.9%
