@@ -26,13 +26,7 @@ How many neurons, layers, and activation functions did you select for your neura
 - The neural network model includes 27 neurons, 2 hidden layers, and 3 activation functions (relu, tanh, sigmoid). To achieve a good balance between model complexity and performance.
 
 
-![nn_model](Deep Learning Challenge/nn_model.png)
-
-
-
-
-
-
+![nn_model](nn_model.png)
 
 
 
